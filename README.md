@@ -2,7 +2,7 @@
 
 Let's create a series of analysis, based on these ideas:
 
-- [data-engineering] - Analysis of Peruvian Congress Bills.
+-  ![DE](img/data-eng.png) Analysis of Peruvian Congress Bills.
   - Data extraction: Web Scraping.
   - Data transformation: Python, NLP.
   - Data visualization: Tableau.
