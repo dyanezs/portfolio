@@ -2,11 +2,12 @@
 
 Let's create a series of analysis, based on these ideas:
 
-- Analysis of Peruvian Congress Bills.
+- [data-engineering] - Analysis of Peruvian Congress Bills.
   - Data extraction: Web Scraping.
   - Data transformation: Python, NLP.
   - Data visualization: Tableau.
-- Tableau Complex Visualizations.
+  - https://github.com/MiltonCalamaro/Proyectos-Ley-Congreso-Analysis
+- [data-visualization] - Tableau Complex Visualizations.
   - Dendogram.
   - Sankey Diagram.
   - Sunburst.
@@ -15,8 +16,9 @@ Let's create a series of analysis, based on these ideas:
   - Data extraction: API.
   - Data transformation: Apache Beam/Dataproc PySpark, Python, Prophet.
   - Data visualization: Jupyter Notebook.
-- 2D Videogame
+- [programming] - 2D Videogame
   - Docker.
   - Pygame.
-- Sorting Visualizer
-  - https://dev.to/kgprajwal/build-a-sorting-visualizer-in-python-2oej.
+  - https://www.youtube.com/watch?v=YWN8GcmJ-jA
+- [programming], Sorting Visualizer
+  - https://dev.to/kgprajwal/build-a-sorting-visualizer-in-python-2oej
