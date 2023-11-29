@@ -2,7 +2,9 @@
 
 Let's create a series of analysis, based on these ideas:
 
--  ![DE](img/data-eng.png) Analysis of Peruvian Congress Bills.
+-  Analysis of Peruvian Congress Bills.
+<p style="background-color: #3498db; padding: 5px; border-radius: 7px; color: #ffffff; text-align: center; width: 70px; height: 15px; display: flex; align-items: center; justify-content: center; font-family: 'Arial', sans-serif; font-size: 12px; font-weight: bold;">data-eng</p>
+
   - Data extraction: Web Scraping.
   - Data transformation: Python, NLP.
   - Data visualization: Tableau.
